@@ -29,7 +29,6 @@ We don't investigated yet
 
 - https://github.com/GeoscienceAustralia/geosciml.org
 
-
 * Tools
 
 - https://jena.apache.org/documentation/inference/index.html
