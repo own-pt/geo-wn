@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wn30: <https://w3id.org/own-pt/wn30/schema/> .
+@prefix wn30en: <https://w3id.org/own-pt/wn30-en/instances/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix gts: <http://resource.geosciml.org/ontology/timescale/gts#> .
+@prefix isc: <http://resource.geosciml.org/classifier/ics/ischart/> .
+@prefix thors: <http://resource.geosciml.org/ontology/timescale/thors#> .
+@prefix ex: <http://www.ibm.com/mapping/> .
+
+gts:Era ex:mapsTo wn30en:synset-15248564-n .
+gts:GeochronologicEra ex:mapsto wn30en:synset-15248020-n .
+gts:Age ex:mapsTo ex:none .
+gts:Eon ex:mapsTo wn30en:synset-15243730-n .
+gts:Epoch ex:mapsTo wn30en:synset-15248269-n .
+gts:Period ex:mapsTo ex:none .
+isc:Cenozoic ex:mapsTo wn30en:synset-15124361-n .
+
+isc:Mesozoic ex:mapsTo wn30en:synset-15126175-n .
+

@@ -1,0 +1,36 @@
+#+Title: README
+
+* Goal
+
+Expand the mapping.ttl file with mappings from gts+thors+isc to
+PWN. Semi-automatic expansion exploring the structures of all
+resources.
+
+* Links
+
+Geologic Timescale model
+ http://resource.geosciml.org/ontology/timescale/gts
+
+Temporal Hierarchical Ordinal Reference System model
+ http://resource.geosciml.org/ontology/timescale/thors
+
+International Chronostratigraphic Chart (2014)
+ http://resource.geosciml.org/vocabulary/timescale/isc2014.ttl
+ http://resource.geosciml.org/vocabulary/timescale/isc2014.rdf
+
+Wordnet Public Endpoint
+ http://wnpt.brlcloud.com:10035/repositories/wn30
+
+Wordnet Princeton in RDF
+ https://github.com/own-pt/openWordnet-PT
+
+
+We don't investigated yet
+
+- https://github.com/GeoscienceAustralia/geosciml.org
+
+
+* Tools
+
+- https://jena.apache.org/documentation/inference/index.html
+- https://www.w3.org/2000/10/swap/doc/cwm.html
