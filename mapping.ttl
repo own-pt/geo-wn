@@ -1,21 +1,77 @@
-@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
-@prefix owl: <http://www.w3.org/2002/07/owl#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix wn30: <https://w3id.org/own-pt/wn30/schema/> .
-@prefix wn30en: <https://w3id.org/own-pt/wn30-en/instances/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ex: <http://www.ibm.com/mapping/> .
 @prefix gts: <http://resource.geosciml.org/ontology/timescale/gts#> .
 @prefix isc: <http://resource.geosciml.org/classifier/ics/ischart/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix thors: <http://resource.geosciml.org/ontology/timescale/thors#> .
-@prefix ex: <http://www.ibm.com/mapping/> .
+@prefix wn30: <https://w3id.org/own-pt/wn30/schema/> .
+@prefix wn30en: <https://w3id.org/own-pt/wn30-en/instances/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+gts:Age ex:mapsTo ex:none .
+
+gts:Eon ex:mapsTo wn30en:synset-15243730-n .
+
+gts:Epoch ex:mapsTo wn30en:synset-15248269-n .
 
 gts:Era ex:mapsTo wn30en:synset-15248564-n .
+
+gts:Period ex:mapsTo wn30en:15247518-n .
+
 gts:GeochronologicEra ex:mapsto wn30en:synset-15248020-n .
-gts:Age ex:mapsTo ex:none .
-gts:Eon ex:mapsTo wn30en:synset-15243730-n .
-gts:Epoch ex:mapsTo wn30en:synset-15248269-n .
-gts:Period ex:mapsTo ex:none .
+
+isc:Archean ex:mapsTo wn30en:synset-15129220-n .
+
+isc:Cambrian ex:mapsTo wn30en:synset-15128549-n .
+
+isc:Carboniferous ex:mapsTo wn30en:synset-15127307-n .
+
 isc:Cenozoic ex:mapsTo wn30en:synset-15124361-n .
+
+isc:Cretaceous ex:mapsTo wn30en:synset-15126361-n .
+
+isc:Devonian ex:mapsTo wn30en:synset-15127982-n .
+
+isc:Eocene ex:mapsTo wn30en:synset-15125845-n .
+
+isc:Hadean ex:mapsTo wn30en:synset-15129572-n .
+
+isc:Holocene ex:mapsTo wn30en:synset-15124713-n .
+
+isc:Jurassic ex:mapsTo wn30en:synset-15126595-n .
 
 isc:Mesozoic ex:mapsTo wn30en:synset-15126175-n .
 
+isc:Miocene ex:mapsTo wn30en:synset-15125519-n .
+
+isc:Oligocene ex:mapsTo wn30en:synset-15125679-n .
+
+isc:Ordovician ex:mapsTo wn30en:synset-15128363-n .
+
+isc:Paleocene ex:mapsTo wn30en:synset-15126000-n .
+
+isc:Paleozoic ex:mapsTo wn30en:synset-15126931-n .
+
+isc:Permian ex:mapsTo wn30en:synset-15127165-n .
+
+isc:Phanerozoic ex:mapsTo wn30en:synset-15124183-n .
+
+isc:Pleistocene ex:mapsTo wn30en:synset-15124864-n .
+
+isc:Pliocene ex:mapsTo wn30en:synset-15125323-n .
+
+isc:Precambrian ex:mapsTo wn30en:synset-15128711-n .
+
+isc:Proterozoic ex:mapsTo wn30en:synset-15128997-n .
+
+isc:Quaternary ex:mapsTo wn30en:synset-15124545-n .
+
+isc:Silurian ex:mapsTo wn30en:synset-15128200-n .
+
+isc:Triassic ex:mapsTo wn30en:synset-15126750-n .
+
+isc:Pennsylvanian ex:mapsTo wn30en:synset-15127507-n .
+
+isc:Mississippian ex:mapsTo wn30en:synset-15127729-n .
