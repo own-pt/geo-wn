@@ -72,6 +72,6 @@ isc:Silurian ex:mapsTo wn30en:synset-15128200-n .
 
 isc:Triassic ex:mapsTo wn30en:synset-15126750-n .
 
-isc:Pennsylvanian ex:mapsTo wn30en:synset-15127507-n
+isc:Pennsylvanian ex:mapsTo wn30en:synset-15127507-n .
 
-isc:Mississippian ex:mapsTo wn30en:synset-15127729-n
+isc:Mississippian ex:mapsTo wn30en:synset-15127729-n .
