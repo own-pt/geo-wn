@@ -1,0 +1,57 @@
+@prefix ex: <http://www.ibm.com/mapping/> .
+@prefix isc: <http://resource.geosciml.org/classifier/ics/ischart/> .
+@prefix wn30en: <https://w3id.org/own-pt/wn30-en/instances/> .
+
+isc:Archean ex:mapsTo wn30en:synset-noun.geotime-Archean .
+
+isc:Cambrian ex:mapsTo wn30en:synset-noun.geotime-Cambrian .
+
+isc:Carboniferous ex:mapsTo wn30en:synset-noun.geotime-Carboniferous .
+
+isc:Cenozoic ex:mapsTo wn30en:synset-noun.geotime-Cenozoic .
+
+isc:Cretaceous ex:mapsTo wn30en:synset-noun.geotime-Cretaceous .
+
+isc:Devonian ex:mapsTo wn30en:synset-noun.geotime-Devonian .
+
+isc:Eocene ex:mapsTo wn30en:synset-noun.geotime-Eocene .
+
+isc:Hadean ex:mapsTo wn30en:synset-noun.geotime-Hadean .
+
+isc:Holocene ex:mapsTo wn30en:synset-noun.geotime-Holocene .
+
+isc:Jurassic ex:mapsTo wn30en:synset-noun.geotime-Jurassic .
+
+isc:Mesozoic ex:mapsTo wn30en:synset-noun.geotime-Mesozoic .
+
+isc:Miocene ex:mapsTo wn30en:synset-noun.geotime-Miocene .
+
+isc:Oligocene ex:mapsTo wn30en:synset-noun.geotime-Oligocene .
+
+isc:Ordovician ex:mapsTo wn30en:synset-noun.geotime-Ordovician .
+
+isc:Paleocene ex:mapsTo wn30en:synset-noun.geotime-Paleocene .
+
+isc:Paleozoic ex:mapsTo wn30en:synset-noun.geotime-Paleozoic .
+
+isc:Permian ex:mapsTo wn30en:synset-noun.geotime-Permian .
+
+isc:Phanerozoic ex:mapsTo wn30en:synset-noun.geotime-Phanerozoic .
+
+isc:Pleistocene ex:mapsTo wn30en:synset-noun.geotime-Pleistocene .
+
+isc:Pliocene ex:mapsTo wn30en:synset-noun.geotime-Pliocene .
+
+isc:Precambrian ex:mapsTo wn30en:synset-noun.geotime-Precambrian .
+
+isc:Proterozoic ex:mapsTo wn30en:synset-noun.geotime-Proterozoic .
+
+isc:Quaternary ex:mapsTo wn30en:synset-noun.geotime-Quaternary .
+
+isc:Silurian ex:mapsTo wn30en:synset-noun.geotime-Silurian .
+
+isc:Triassic ex:mapsTo wn30en:synset-noun.geotime-Triassic .
+
+isc:Pennsylvanian ex:mapsTo wn30en:synset-noun.geotime-Pennsylvanian .
+
+isc:Mississippian ex:mapsTo wn30en:synset-noun.geotime-Mississippian .

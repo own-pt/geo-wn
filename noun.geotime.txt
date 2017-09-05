@@ -1,0 +1,203 @@
+w: Archean drf adjs.all:archean
+w: Archean_eon
+w: Archean_aeon
+w: Archeozoic drf adjs.all:archeozoic
+w: Archaeozoic drf adjs.all:archaeozoic
+w: Archeozoic_eon
+w: Archaeozoic_aeon
+ihyper: eon
+hp: Precambrian
+g: the time from 3,800 million years to 2,500 million years ago; earth's crust formed; unicellular organisms are earliest forms of life
+
+w: eon drf adj.pert:eonian
+w: aeon drf adj.pert:aeonian
+hyper: geological_time
+g: the longest division of geological time
+
+w: epoch
+hyper: geological_time
+hp: period
+g: a unit of geological time that is a subdivision of a period and is itself divided into ages
+
+w: era
+w: geological_era
+hyper: geological_time
+hp: eon
+g: a major division of geological time; an era is usually divided into two or more periods
+
+w: Cambrian
+w: Cambrian_period
+ihyper: period
+hp: Paleozoic
+g: from 544 million to about 500 million years ago; marine invertebrates
+
+w: Carboniferous drf adj.pert:carboniferous
+w: Carboniferous_period
+ihyper: period
+hp: Paleozoic
+g: from 345 million to 280 million years ago
+
+w: Cenozoic
+w: Cenozoic_era
+w: Age_of_Mammals
+ihyper: era
+hp: Phanerozoic
+g: approximately the last 63 million years
+
+w: Cretaceous drf adj.pert:Cretaceous
+w: Cretaceous_period
+ihyper: period
+hp: Mesozoic
+g: from 135 million to 63 million years ago; end of the age of reptiles; appearance of modern insects and flowering plants
+
+w: Devonian
+w: Devonian_period
+w: Age_of_Fishes
+ihyper: period
+hp: Paleozoic
+g: from 405 million to 345 million years ago; preponderance of fishes and appearance of amphibians and ammonites
+
+w: Eocene
+w: Eocene_epoch
+ihyper: epoch
+hp: Tertiary
+g: from 58 million to 40 million years ago; presence of modern mammals
+
+w: Hadean
+w: Hadean_time
+w: Hadean_eon
+w: Hadean_aeon
+w: Priscoan
+w: Priscoan_eon
+w: Priscoan_aeon
+ihyper: eon
+g: the earliest eon in the history of the Earth from the first accretion of planetary material (around 4,600 million years ago) until the date of the oldest known rocks (about 3,800 million years ago); no evidence of life
+
+w: Holocene
+w: Holocene_epoch
+w: Recent
+w: Recent_epoch
+ihyper: epoch
+hp: Quaternary
+g: approximately the last 10,000 years
+
+w: Jurassic
+w: Jurassic_period
+ihyper: period
+hp: Mesozoic
+g: from 190 million to 135 million years ago; dinosaurs; conifers
+
+w: Mesozoic
+w: Mesozoic_era
+w: Age_of_Reptiles
+ihyper: era
+g: from 230 million to 63 million years ago
+
+w: Miocene
+w: Miocene_epoch
+ihyper: epoch
+hp: Tertiary
+g: from 25 million to 13 million years ago; appearance of grazing mammals
+
+w: Oligocene
+w: Oligocene_epoch
+ihyper: epoch
+hp: Tertiary
+g: from 40 million to 25 million years ago; appearance of sabertoothed cats
+
+w: Ordovician
+w: Ordovician_period
+ihyper: period
+hp: Paleozoic
+g: from 500 million to 425 million years ago; conodonts and ostracods and algae and seaweeds
+
+w: Paleocene
+w: Paleocene_epoch
+ihyper: epoch
+hp: Tertiary
+g: from 63 million to 58 million years ago; appearance of birds and earliest mammals
+
+w: Paleozoic
+w: Paleozoic_era
+ihyper: era
+g: from 544 million to about 230 million years ago
+
+w: Permian
+w: Permian_period
+ihyper: period
+hp: Paleozoic
+g: from 280 million to 230 million years ago; reptiles
+
+w: Phanerozoic
+w: Phanerozoic_eon
+w: Phanerozoic_aeon
+ihyper: eon
+g: the period from about 5,400 million years ago until the present
+
+w: Pleistocene
+w: Pleistocene_epoch
+w: Glacial_epoch
+ihyper: epoch
+hp: Quaternary
+g: from two million to 11 thousand years ago; extensive glaciation of the northern hemisphere; the time of human evolution
+
+w: Pliocene
+w: Pliocene_epoch
+ihyper: epoch
+hp: Tertiary
+g: from 13 million to 2 million years ago; growth of mountains; cooling of climate; more and larger mammals
+
+w: Precambrian
+w: Precambrian_eon
+w: Precambrian_aeon
+w: Precambrian_period
+ihyper: eon
+g: the eon following the Hadean time and preceding the Phanerozoic eon; from about 3,800 million years ago until 544 million years ago
+
+w: Proterozoic drf adjs.all:proterozoic
+w: Proterozoic_eon
+w: Proterozoic_aeon
+ihyper: eon
+hp: Precambrian
+g: from 2,500 to 544 million years ago; bacteria and fungi; primitive multicellular organisms
+
+w: Quaternary
+w: Quaternary_period
+w: Age_of_Man
+ihyper: period
+hp: Cenozoic
+g: last 2 million years
+
+w: Silurian
+w: Silurian_period
+ihyper: period
+hp: Paleozoic
+g: from 425 million to 405 million years ago; first air-breathing animals
+
+w: Triassic
+w: Triassic_period
+ihyper: period
+hp: Mesozoic
+g: from 230 million to 190 million years ago; dinosaurs, marine reptiles; volcanic activity
+
+w: Pennsylvanian
+w: Pennsylvanian_period
+w: Upper_Carboniferous
+w: Upper_Carboniferous_period
+ihyper: period
+hp: Carboniferous
+g: from 310 million to 280 million years ago; warm climate; swampy land
+
+w: period
+w: geological_period
+hyper: geological_time
+hp: era
+g: a unit of geological time during which a system of rocks formed; "ganoid fishes swarmed during the earlier geological periods"
+
+w: Mississippian
+w: Missippian_period
+w: Lower_Carboniferous
+w: Lower_Carboniferous_period
+ihyper: period
+hp: Carboniferous
+g: from 345 million to 310 million years ago; increase of land areas; primitive ammonites; winged insects

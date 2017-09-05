@@ -1,0 +1,556 @@
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Archean> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/NounSynset> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Archean> <https://w3id.org/own-pt/wn30/schema/hypernymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-eon> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Archean> <https://w3id.org/own-pt/wn30/schema/partHolonymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Precambrian> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Archean> <https://w3id.org/own-pt/wn30/schema/gloss> "the time from 3,800 million years to 2,500 million years ago; earth's crust formed; unicellular organisms are earliest forms of life" .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Archean> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Archean> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Archean> <https://w3id.org/own-pt/wn30/schema/derivationallyRelated> <https://w3id.org/own-pt/wn30-en/instances/wordsense-adjs.all-archean> . 
+<https://w3id.org/own-pt/wn30-en/instances/word-Archean> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Archean>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Archean> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Archean> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Archean" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Archean> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Archean> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Archean_eon> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Archean_eon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Archean_eon>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Archean_eon> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Archean_eon> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Archean eon" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Archean_eon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Archean> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Archean_aeon> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Archean_aeon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Archean_aeon>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Archean_aeon> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Archean_aeon> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Archean aeon" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Archean_aeon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Archean> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Archeozoic> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Archeozoic> <https://w3id.org/own-pt/wn30/schema/derivationallyRelated> <https://w3id.org/own-pt/wn30-en/instances/wordsense-adjs.all-archeozoic> . 
+<https://w3id.org/own-pt/wn30-en/instances/word-Archeozoic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Archeozoic>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Archeozoic> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Archeozoic> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Archeozoic" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Archeozoic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Archean> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Archaeozoic> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Archaeozoic> <https://w3id.org/own-pt/wn30/schema/derivationallyRelated> <https://w3id.org/own-pt/wn30-en/instances/wordsense-adjs.all-archaeozoic> . 
+<https://w3id.org/own-pt/wn30-en/instances/word-Archaeozoic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Archaeozoic>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Archaeozoic> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Archaeozoic> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Archaeozoic" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Archaeozoic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Archean> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Archeozoic_eon> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Archeozoic_eon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Archeozoic_eon>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Archeozoic_eon> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Archeozoic_eon> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Archeozoic eon" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Archeozoic_eon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Archean> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Archaeozoic_aeon> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Archaeozoic_aeon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Archaeozoic_aeon>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Archaeozoic_aeon> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Archaeozoic_aeon> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Archaeozoic aeon" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Archaeozoic_aeon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-eon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/NounSynset> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-eon> <https://w3id.org/own-pt/wn30/schema/hypernymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-geological_time> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-eon> <https://w3id.org/own-pt/wn30/schema/gloss> "the longest division of geological time" .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-eon> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-eon> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-eon> <https://w3id.org/own-pt/wn30/schema/derivationallyRelated> <https://w3id.org/own-pt/wn30-en/instances/wordsense-adj.pert-eonian> . 
+<https://w3id.org/own-pt/wn30-en/instances/word-eon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-eon>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-eon> .
+<https://w3id.org/own-pt/wn30-en/instances/word-eon> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "eon" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-eon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-eon> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-aeon> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-aeon> <https://w3id.org/own-pt/wn30/schema/derivationallyRelated> <https://w3id.org/own-pt/wn30-en/instances/wordsense-adj.pert-aeonian> . 
+<https://w3id.org/own-pt/wn30-en/instances/word-aeon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-aeon>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-aeon> .
+<https://w3id.org/own-pt/wn30-en/instances/word-aeon> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "aeon" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-aeon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-epoch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/NounSynset> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-epoch> <https://w3id.org/own-pt/wn30/schema/hypernymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-geological_time> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-epoch> <https://w3id.org/own-pt/wn30/schema/partHolonymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-period> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-epoch> <https://w3id.org/own-pt/wn30/schema/gloss> "a unit of geological time that is a subdivision of a period and is itself divided into ages" .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-epoch> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-epoch> .
+<https://w3id.org/own-pt/wn30-en/instances/word-epoch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-epoch>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-epoch> .
+<https://w3id.org/own-pt/wn30-en/instances/word-epoch> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "epoch" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-epoch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-era> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/NounSynset> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-era> <https://w3id.org/own-pt/wn30/schema/hypernymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-geological_time> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-era> <https://w3id.org/own-pt/wn30/schema/partHolonymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-eon> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-era> <https://w3id.org/own-pt/wn30/schema/gloss> "a major division of geological time; an era is usually divided into two or more periods" .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-era> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-era> .
+<https://w3id.org/own-pt/wn30-en/instances/word-era> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-era>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-era> .
+<https://w3id.org/own-pt/wn30-en/instances/word-era> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "era" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-era> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-era> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-geological_era> .
+<https://w3id.org/own-pt/wn30-en/instances/word-geological_era> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-geological_era>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-geological_era> .
+<https://w3id.org/own-pt/wn30-en/instances/word-geological_era> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "geological era" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-geological_era> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Cambrian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/NounSynset> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Cambrian> <https://w3id.org/own-pt/wn30/schema/hypernymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-period> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Cambrian> <https://w3id.org/own-pt/wn30/schema/partHolonymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Paleozoic> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Cambrian> <https://w3id.org/own-pt/wn30/schema/gloss> "from 544 million to about 500 million years ago; marine invertebrates" .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Cambrian> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Cambrian> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Cambrian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Cambrian>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Cambrian> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Cambrian> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Cambrian" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Cambrian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Cambrian> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Cambrian_period> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Cambrian_period> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Cambrian_period>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Cambrian_period> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Cambrian_period> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Cambrian period" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Cambrian_period> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Carboniferous> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/NounSynset> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Carboniferous> <https://w3id.org/own-pt/wn30/schema/hypernymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-period> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Carboniferous> <https://w3id.org/own-pt/wn30/schema/partHolonymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Paleozoic> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Carboniferous> <https://w3id.org/own-pt/wn30/schema/gloss> "from 345 million to 280 million years ago" .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Carboniferous> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Carboniferous> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Carboniferous> <https://w3id.org/own-pt/wn30/schema/derivationallyRelated> <https://w3id.org/own-pt/wn30-en/instances/wordsense-adj.pert-carboniferous> . 
+<https://w3id.org/own-pt/wn30-en/instances/word-Carboniferous> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Carboniferous>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Carboniferous> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Carboniferous> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Carboniferous" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Carboniferous> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Carboniferous> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Carboniferous_period> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Carboniferous_period> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Carboniferous_period>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Carboniferous_period> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Carboniferous_period> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Carboniferous period" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Carboniferous_period> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Cenozoic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/NounSynset> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Cenozoic> <https://w3id.org/own-pt/wn30/schema/hypernymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-era> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Cenozoic> <https://w3id.org/own-pt/wn30/schema/partHolonymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Phanerozoic> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Cenozoic> <https://w3id.org/own-pt/wn30/schema/gloss> "approximately the last 63 million years" .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Cenozoic> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Cenozoic> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Cenozoic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Cenozoic>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Cenozoic> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Cenozoic> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Cenozoic" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Cenozoic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Cenozoic> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Cenozoic_era> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Cenozoic_era> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Cenozoic_era>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Cenozoic_era> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Cenozoic_era> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Cenozoic era" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Cenozoic_era> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Cenozoic> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Age_of_Mammals> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Age_of_Mammals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Age_of_Mammals>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Age_of_Mammals> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Age_of_Mammals> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Age of Mammals" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Age_of_Mammals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Cretaceous> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/NounSynset> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Cretaceous> <https://w3id.org/own-pt/wn30/schema/hypernymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-period> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Cretaceous> <https://w3id.org/own-pt/wn30/schema/partHolonymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Mesozoic> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Cretaceous> <https://w3id.org/own-pt/wn30/schema/gloss> "from 135 million to 63 million years ago; end of the age of reptiles; appearance of modern insects and flowering plants" .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Cretaceous> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Cretaceous> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Cretaceous> <https://w3id.org/own-pt/wn30/schema/derivationallyRelated> <https://w3id.org/own-pt/wn30-en/instances/wordsense-adj.pert-Cretaceous> . 
+<https://w3id.org/own-pt/wn30-en/instances/word-Cretaceous> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Cretaceous>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Cretaceous> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Cretaceous> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Cretaceous" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Cretaceous> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Cretaceous> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Cretaceous_period> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Cretaceous_period> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Cretaceous_period>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Cretaceous_period> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Cretaceous_period> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Cretaceous period" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Cretaceous_period> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Devonian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/NounSynset> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Devonian> <https://w3id.org/own-pt/wn30/schema/hypernymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-period> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Devonian> <https://w3id.org/own-pt/wn30/schema/partHolonymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Paleozoic> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Devonian> <https://w3id.org/own-pt/wn30/schema/gloss> "from 405 million to 345 million years ago; preponderance of fishes and appearance of amphibians and ammonites" .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Devonian> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Devonian> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Devonian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Devonian>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Devonian> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Devonian> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Devonian" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Devonian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Devonian> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Devonian_period> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Devonian_period> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Devonian_period>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Devonian_period> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Devonian_period> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Devonian period" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Devonian_period> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Devonian> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Age_of_Fishes> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Age_of_Fishes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Age_of_Fishes>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Age_of_Fishes> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Age_of_Fishes> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Age of Fishes" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Age_of_Fishes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Eocene> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/NounSynset> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Eocene> <https://w3id.org/own-pt/wn30/schema/hypernymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-epoch> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Eocene> <https://w3id.org/own-pt/wn30/schema/partHolonymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Tertiary> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Eocene> <https://w3id.org/own-pt/wn30/schema/gloss> "from 58 million to 40 million years ago; presence of modern mammals" .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Eocene> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Eocene> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Eocene> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Eocene>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Eocene> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Eocene> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Eocene" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Eocene> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Eocene> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Eocene_epoch> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Eocene_epoch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Eocene_epoch>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Eocene_epoch> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Eocene_epoch> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Eocene epoch" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Eocene_epoch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Hadean> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/NounSynset> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Hadean> <https://w3id.org/own-pt/wn30/schema/hypernymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-eon> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Hadean> <https://w3id.org/own-pt/wn30/schema/gloss> "the earliest eon in the history of the Earth from the first accretion of planetary material (around 4,600 million years ago) until the date of the oldest known rocks (about 3,800 million years ago); no evidence of life" .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Hadean> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Hadean> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Hadean> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Hadean>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Hadean> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Hadean> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Hadean" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Hadean> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Hadean> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Hadean_time> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Hadean_time> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Hadean_time>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Hadean_time> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Hadean_time> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Hadean time" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Hadean_time> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Hadean> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Hadean_eon> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Hadean_eon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Hadean_eon>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Hadean_eon> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Hadean_eon> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Hadean eon" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Hadean_eon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Hadean> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Hadean_aeon> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Hadean_aeon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Hadean_aeon>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Hadean_aeon> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Hadean_aeon> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Hadean aeon" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Hadean_aeon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Hadean> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Priscoan> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Priscoan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Priscoan>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Priscoan> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Priscoan> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Priscoan" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Priscoan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Hadean> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Priscoan_eon> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Priscoan_eon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Priscoan_eon>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Priscoan_eon> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Priscoan_eon> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Priscoan eon" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Priscoan_eon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Hadean> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Priscoan_aeon> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Priscoan_aeon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Priscoan_aeon>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Priscoan_aeon> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Priscoan_aeon> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Priscoan aeon" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Priscoan_aeon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Holocene> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/NounSynset> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Holocene> <https://w3id.org/own-pt/wn30/schema/hypernymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-epoch> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Holocene> <https://w3id.org/own-pt/wn30/schema/partHolonymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Quaternary> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Holocene> <https://w3id.org/own-pt/wn30/schema/gloss> "approximately the last 10,000 years" .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Holocene> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Holocene> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Holocene> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Holocene>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Holocene> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Holocene> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Holocene" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Holocene> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Holocene> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Holocene_epoch> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Holocene_epoch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Holocene_epoch>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Holocene_epoch> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Holocene_epoch> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Holocene epoch" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Holocene_epoch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Holocene> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Recent> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Recent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Recent>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Recent> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Recent> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Recent" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Recent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Holocene> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Recent_epoch> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Recent_epoch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Recent_epoch>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Recent_epoch> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Recent_epoch> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Recent epoch" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Recent_epoch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Jurassic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/NounSynset> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Jurassic> <https://w3id.org/own-pt/wn30/schema/hypernymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-period> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Jurassic> <https://w3id.org/own-pt/wn30/schema/partHolonymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Mesozoic> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Jurassic> <https://w3id.org/own-pt/wn30/schema/gloss> "from 190 million to 135 million years ago; dinosaurs; conifers" .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Jurassic> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Jurassic> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Jurassic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Jurassic>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Jurassic> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Jurassic> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Jurassic" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Jurassic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Jurassic> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Jurassic_period> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Jurassic_period> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Jurassic_period>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Jurassic_period> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Jurassic_period> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Jurassic period" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Jurassic_period> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Mesozoic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/NounSynset> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Mesozoic> <https://w3id.org/own-pt/wn30/schema/hypernymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-era> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Mesozoic> <https://w3id.org/own-pt/wn30/schema/gloss> "from 230 million to 63 million years ago" .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Mesozoic> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Mesozoic> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Mesozoic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Mesozoic>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Mesozoic> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Mesozoic> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Mesozoic" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Mesozoic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Mesozoic> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Mesozoic_era> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Mesozoic_era> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Mesozoic_era>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Mesozoic_era> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Mesozoic_era> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Mesozoic era" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Mesozoic_era> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Mesozoic> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Age_of_Reptiles> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Age_of_Reptiles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Age_of_Reptiles>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Age_of_Reptiles> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Age_of_Reptiles> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Age of Reptiles" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Age_of_Reptiles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Miocene> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/NounSynset> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Miocene> <https://w3id.org/own-pt/wn30/schema/hypernymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-epoch> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Miocene> <https://w3id.org/own-pt/wn30/schema/partHolonymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Tertiary> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Miocene> <https://w3id.org/own-pt/wn30/schema/gloss> "from 25 million to 13 million years ago; appearance of grazing mammals" .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Miocene> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Miocene> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Miocene> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Miocene>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Miocene> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Miocene> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Miocene" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Miocene> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Miocene> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Miocene_epoch> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Miocene_epoch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Miocene_epoch>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Miocene_epoch> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Miocene_epoch> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Miocene epoch" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Miocene_epoch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Oligocene> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/NounSynset> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Oligocene> <https://w3id.org/own-pt/wn30/schema/hypernymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-epoch> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Oligocene> <https://w3id.org/own-pt/wn30/schema/partHolonymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Tertiary> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Oligocene> <https://w3id.org/own-pt/wn30/schema/gloss> "from 40 million to 25 million years ago; appearance of sabertoothed cats" .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Oligocene> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Oligocene> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Oligocene> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Oligocene>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Oligocene> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Oligocene> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Oligocene" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Oligocene> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Oligocene> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Oligocene_epoch> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Oligocene_epoch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Oligocene_epoch>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Oligocene_epoch> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Oligocene_epoch> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Oligocene epoch" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Oligocene_epoch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Ordovician> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/NounSynset> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Ordovician> <https://w3id.org/own-pt/wn30/schema/hypernymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-period> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Ordovician> <https://w3id.org/own-pt/wn30/schema/partHolonymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Paleozoic> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Ordovician> <https://w3id.org/own-pt/wn30/schema/gloss> "from 500 million to 425 million years ago; conodonts and ostracods and algae and seaweeds" .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Ordovician> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Ordovician> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Ordovician> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Ordovician>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Ordovician> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Ordovician> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Ordovician" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Ordovician> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Ordovician> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Ordovician_period> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Ordovician_period> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Ordovician_period>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Ordovician_period> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Ordovician_period> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Ordovician period" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Ordovician_period> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Paleocene> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/NounSynset> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Paleocene> <https://w3id.org/own-pt/wn30/schema/hypernymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-epoch> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Paleocene> <https://w3id.org/own-pt/wn30/schema/partHolonymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Tertiary> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Paleocene> <https://w3id.org/own-pt/wn30/schema/gloss> "from 63 million to 58 million years ago; appearance of birds and earliest mammals" .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Paleocene> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Paleocene> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Paleocene> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Paleocene>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Paleocene> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Paleocene> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Paleocene" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Paleocene> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Paleocene> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Paleocene_epoch> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Paleocene_epoch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Paleocene_epoch>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Paleocene_epoch> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Paleocene_epoch> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Paleocene epoch" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Paleocene_epoch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Paleozoic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/NounSynset> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Paleozoic> <https://w3id.org/own-pt/wn30/schema/hypernymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-era> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Paleozoic> <https://w3id.org/own-pt/wn30/schema/gloss> "from 544 million to about 230 million years ago" .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Paleozoic> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Paleozoic> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Paleozoic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Paleozoic>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Paleozoic> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Paleozoic> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Paleozoic" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Paleozoic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Paleozoic> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Paleozoic_era> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Paleozoic_era> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Paleozoic_era>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Paleozoic_era> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Paleozoic_era> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Paleozoic era" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Paleozoic_era> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Permian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/NounSynset> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Permian> <https://w3id.org/own-pt/wn30/schema/hypernymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-period> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Permian> <https://w3id.org/own-pt/wn30/schema/partHolonymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Paleozoic> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Permian> <https://w3id.org/own-pt/wn30/schema/gloss> "from 280 million to 230 million years ago; reptiles" .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Permian> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Permian> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Permian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Permian>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Permian> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Permian> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Permian" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Permian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Permian> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Permian_period> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Permian_period> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Permian_period>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Permian_period> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Permian_period> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Permian period" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Permian_period> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Phanerozoic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/NounSynset> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Phanerozoic> <https://w3id.org/own-pt/wn30/schema/hypernymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-eon> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Phanerozoic> <https://w3id.org/own-pt/wn30/schema/gloss> "the period from about 5,400 million years ago until the present" .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Phanerozoic> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Phanerozoic> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Phanerozoic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Phanerozoic>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Phanerozoic> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Phanerozoic> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Phanerozoic" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Phanerozoic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Phanerozoic> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Phanerozoic_eon> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Phanerozoic_eon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Phanerozoic_eon>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Phanerozoic_eon> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Phanerozoic_eon> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Phanerozoic eon" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Phanerozoic_eon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Phanerozoic> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Phanerozoic_aeon> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Phanerozoic_aeon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Phanerozoic_aeon>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Phanerozoic_aeon> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Phanerozoic_aeon> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Phanerozoic aeon" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Phanerozoic_aeon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Pleistocene> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/NounSynset> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Pleistocene> <https://w3id.org/own-pt/wn30/schema/hypernymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-epoch> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Pleistocene> <https://w3id.org/own-pt/wn30/schema/partHolonymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Quaternary> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Pleistocene> <https://w3id.org/own-pt/wn30/schema/gloss> "from two million to 11 thousand years ago; extensive glaciation of the northern hemisphere; the time of human evolution" .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Pleistocene> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Pleistocene> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Pleistocene> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Pleistocene>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Pleistocene> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Pleistocene> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Pleistocene" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Pleistocene> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Pleistocene> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Pleistocene_epoch> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Pleistocene_epoch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Pleistocene_epoch>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Pleistocene_epoch> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Pleistocene_epoch> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Pleistocene epoch" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Pleistocene_epoch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Pleistocene> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Glacial_epoch> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Glacial_epoch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Glacial_epoch>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Glacial_epoch> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Glacial_epoch> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Glacial epoch" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Glacial_epoch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Pliocene> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/NounSynset> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Pliocene> <https://w3id.org/own-pt/wn30/schema/hypernymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-epoch> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Pliocene> <https://w3id.org/own-pt/wn30/schema/partHolonymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Tertiary> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Pliocene> <https://w3id.org/own-pt/wn30/schema/gloss> "from 13 million to 2 million years ago; growth of mountains; cooling of climate; more and larger mammals" .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Pliocene> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Pliocene> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Pliocene> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Pliocene>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Pliocene> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Pliocene> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Pliocene" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Pliocene> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Pliocene> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Pliocene_epoch> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Pliocene_epoch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Pliocene_epoch>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Pliocene_epoch> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Pliocene_epoch> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Pliocene epoch" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Pliocene_epoch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Precambrian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/NounSynset> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Precambrian> <https://w3id.org/own-pt/wn30/schema/hypernymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-eon> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Precambrian> <https://w3id.org/own-pt/wn30/schema/gloss> "the eon following the Hadean time and preceding the Phanerozoic eon; from about 3,800 million years ago until 544 million years ago" .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Precambrian> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Precambrian> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Precambrian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Precambrian>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Precambrian> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Precambrian> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Precambrian" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Precambrian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Precambrian> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Precambrian_eon> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Precambrian_eon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Precambrian_eon>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Precambrian_eon> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Precambrian_eon> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Precambrian eon" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Precambrian_eon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Precambrian> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Precambrian_aeon> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Precambrian_aeon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Precambrian_aeon>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Precambrian_aeon> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Precambrian_aeon> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Precambrian aeon" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Precambrian_aeon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Precambrian> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Precambrian_period> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Precambrian_period> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Precambrian_period>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Precambrian_period> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Precambrian_period> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Precambrian period" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Precambrian_period> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Proterozoic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/NounSynset> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Proterozoic> <https://w3id.org/own-pt/wn30/schema/hypernymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-eon> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Proterozoic> <https://w3id.org/own-pt/wn30/schema/partHolonymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Precambrian> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Proterozoic> <https://w3id.org/own-pt/wn30/schema/gloss> "from 2,500 to 544 million years ago; bacteria and fungi; primitive multicellular organisms" .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Proterozoic> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Proterozoic> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Proterozoic> <https://w3id.org/own-pt/wn30/schema/derivationallyRelated> <https://w3id.org/own-pt/wn30-en/instances/wordsense-adjs.all-proterozoic> . 
+<https://w3id.org/own-pt/wn30-en/instances/word-Proterozoic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Proterozoic>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Proterozoic> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Proterozoic> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Proterozoic" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Proterozoic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Proterozoic> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Proterozoic_eon> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Proterozoic_eon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Proterozoic_eon>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Proterozoic_eon> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Proterozoic_eon> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Proterozoic eon" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Proterozoic_eon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Proterozoic> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Proterozoic_aeon> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Proterozoic_aeon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Proterozoic_aeon>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Proterozoic_aeon> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Proterozoic_aeon> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Proterozoic aeon" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Proterozoic_aeon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Quaternary> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/NounSynset> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Quaternary> <https://w3id.org/own-pt/wn30/schema/hypernymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-period> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Quaternary> <https://w3id.org/own-pt/wn30/schema/partHolonymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Cenozoic> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Quaternary> <https://w3id.org/own-pt/wn30/schema/gloss> "last 2 million years" .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Quaternary> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Quaternary> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Quaternary> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Quaternary>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Quaternary> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Quaternary> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Quaternary" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Quaternary> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Quaternary> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Quaternary_period> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Quaternary_period> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Quaternary_period>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Quaternary_period> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Quaternary_period> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Quaternary period" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Quaternary_period> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Quaternary> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Age_of_Man> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Age_of_Man> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Age_of_Man>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Age_of_Man> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Age_of_Man> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Age of Man" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Age_of_Man> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Silurian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/NounSynset> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Silurian> <https://w3id.org/own-pt/wn30/schema/hypernymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-period> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Silurian> <https://w3id.org/own-pt/wn30/schema/partHolonymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Paleozoic> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Silurian> <https://w3id.org/own-pt/wn30/schema/gloss> "from 425 million to 405 million years ago; first air-breathing animals" .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Silurian> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Silurian> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Silurian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Silurian>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Silurian> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Silurian> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Silurian" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Silurian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Silurian> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Silurian_period> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Silurian_period> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Silurian_period>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Silurian_period> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Silurian_period> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Silurian period" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Silurian_period> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Triassic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/NounSynset> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Triassic> <https://w3id.org/own-pt/wn30/schema/hypernymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-period> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Triassic> <https://w3id.org/own-pt/wn30/schema/partHolonymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Mesozoic> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Triassic> <https://w3id.org/own-pt/wn30/schema/gloss> "from 230 million to 190 million years ago; dinosaurs, marine reptiles; volcanic activity" .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Triassic> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Triassic> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Triassic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Triassic>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Triassic> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Triassic> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Triassic" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Triassic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Triassic> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Triassic_period> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Triassic_period> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Triassic_period>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Triassic_period> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Triassic_period> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Triassic period" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Triassic_period> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Pennsylvanian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/NounSynset> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Pennsylvanian> <https://w3id.org/own-pt/wn30/schema/hypernymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-period> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Pennsylvanian> <https://w3id.org/own-pt/wn30/schema/partHolonymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Carboniferous> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Pennsylvanian> <https://w3id.org/own-pt/wn30/schema/gloss> "from 310 million to 280 million years ago; warm climate; swampy land" .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Pennsylvanian> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Pennsylvanian> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Pennsylvanian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Pennsylvanian>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Pennsylvanian> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Pennsylvanian> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Pennsylvanian" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Pennsylvanian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Pennsylvanian> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Pennsylvanian_period> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Pennsylvanian_period> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Pennsylvanian_period>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Pennsylvanian_period> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Pennsylvanian_period> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Pennsylvanian period" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Pennsylvanian_period> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Pennsylvanian> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Upper_Carboniferous> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Upper_Carboniferous> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Upper_Carboniferous>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Upper_Carboniferous> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Upper_Carboniferous> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Upper Carboniferous" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Upper_Carboniferous> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Pennsylvanian> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Upper_Carboniferous_period> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Upper_Carboniferous_period> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Upper_Carboniferous_period>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Upper_Carboniferous_period> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Upper_Carboniferous_period> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Upper Carboniferous period" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Upper_Carboniferous_period> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-period> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/NounSynset> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-period> <https://w3id.org/own-pt/wn30/schema/hypernymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-geological_time> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-period> <https://w3id.org/own-pt/wn30/schema/partHolonymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-era> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-period> <https://w3id.org/own-pt/wn30/schema/gloss> "a unit of geological time during which a system of rocks formed; \"ganoid fishes swarmed during the earlier geological periods\"" .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-period> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-period> .
+<https://w3id.org/own-pt/wn30-en/instances/word-period> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-period>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-period> .
+<https://w3id.org/own-pt/wn30-en/instances/word-period> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "period" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-period> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-period> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-geological_period> .
+<https://w3id.org/own-pt/wn30-en/instances/word-geological_period> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-geological_period>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-geological_period> .
+<https://w3id.org/own-pt/wn30-en/instances/word-geological_period> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "geological period" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-geological_period> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Mississippian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/NounSynset> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Mississippian> <https://w3id.org/own-pt/wn30/schema/hypernymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-period> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Mississippian> <https://w3id.org/own-pt/wn30/schema/partHolonymOf> <https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Carboniferous> . 
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Mississippian> <https://w3id.org/own-pt/wn30/schema/gloss> "from 345 million to 310 million years ago; increase of land areas; primitive ammonites; winged insects" .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Mississippian> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Mississippian> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Mississippian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Mississippian>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Mississippian> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Mississippian> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Mississippian" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Mississippian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Mississippian> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Missippian_period> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Missippian_period> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Missippian_period>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Missippian_period> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Missippian_period> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Missippian period" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Missippian_period> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Mississippian> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Lower_Carboniferous> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Lower_Carboniferous> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Lower_Carboniferous>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Lower_Carboniferous> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Lower_Carboniferous> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Lower Carboniferous" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Lower_Carboniferous> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
+<https://w3id.org/own-pt/wn30-en/instances/synset-noun.geotime-Mississippian> <https://w3id.org/own-pt/wn30/schema/containsWordSense> <https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Lower_Carboniferous_period> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Lower_Carboniferous_period> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/Word> .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Lower_Carboniferous_period>  <https://w3id.org/own-pt/wn30/schema/word> <https://w3id.org/own-pt/wn30-en/instances/word-Lower_Carboniferous_period> .
+<https://w3id.org/own-pt/wn30-en/instances/word-Lower_Carboniferous_period> <https://w3id.org/own-pt/wn30/schema/lexicalForm> "Lower Carboniferous period" .
+<https://w3id.org/own-pt/wn30-en/instances/wordsense-noun.geotime-Lower_Carboniferous_period> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/WordSense> .
